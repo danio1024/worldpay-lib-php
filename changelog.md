@@ -1,3 +1,9 @@
+### 1.6 2015-05-27
+* Check is_numeric instead of is_int for Captures
+
+### 1.5 2015-05-19
+* Modify PHP library timeout period and message
+
 ### 1.4 2015-03-04
 * PHP 5.2 Error Exeption Handling
 * Authorisations

@@ -1,7 +1,7 @@
 
 <?php
 /**
- * PHP library version: 
+ * PHP library version: v1.6
  */
 require_once('../lib/worldpay.php');
 
